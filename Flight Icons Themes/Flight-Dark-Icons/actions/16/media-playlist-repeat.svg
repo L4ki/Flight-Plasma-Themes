@@ -1,8 +1,11 @@
 <svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style type="text/css">.ColorScheme-Text {
-        color:#d8dee9;
-      }</style>
- </defs>
- <path class="ColorScheme-Text" d="m11 3.5v1.5h-6c-1.662 0-3 1.338-3 3h1c0-1.108 0.892-2 2-2h6v1.5l3-2-3-2zm2 4.5c0 1.108-0.892 2-2 2h-6v-1.5l-3 2 3 2v-1.5h6c1.662 0 3-1.338 3-3h-1z" fill="currentColor"/>
+    <style type="text/css" id="current-color-scheme">
+        .ColorScheme-Text {
+            color:#232629;
+        }
+    </style>
+    <g class="ColorScheme-Text" fill="currentColor">
+        <path d="m11 2v2h-6a3 3 0 0 0 -3 3v1h1v-1a2 2 0 0 1 2-2h6v2l3.33398438-2.5z"/>
+        <path d="m5 14v-2h6a3 3 0 0 0 3-3v-1h-1v1a2 2 0 0 1 -2 2h-6v-2l-3.33398438 2.5z"/>
+    </g>
 </svg>
