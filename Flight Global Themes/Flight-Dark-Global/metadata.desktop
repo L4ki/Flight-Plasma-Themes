@@ -1,0 +1,13 @@
+[Desktop Entry]
+Comment=Flight-Dark Global Theme by l4k1
+Name=Flight-Dark-Global
+X-KDE-PluginInfo-Author=l4k1
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-Name=Flight-Dark-Global
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/2055318,kns://colorschemes.knsrc/api.kde-look.org/2055312,kns://plasma-themes.knsrc/api.kde-look.org/2055339,kns://icons.knsrc/api.kde-look.org/2055336,kns://icons.knsrc/api.kde-look.org/2055334,kns://aurorae.knsrc/api.kde-look.org/2055332,kns://aurorae.knsrc/api.kde-look.org/2055327,kns://aurorae.knsrc/api.kde-look.org/2055327,kns://wallpaper.knsrc/api.kde-look.org/2055282,kns://wallpaper.knsrc/api.kde-look.org/2055276,kns://sddmtheme.knsrc/api.kde-look.org/2055304
