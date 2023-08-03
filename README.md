@@ -37,4 +37,9 @@ Screenshots "Flight-Dark-Plasma":
 
 ![5](https://github.com/L4ki/Flight-Plasma-Themes/assets/45247573/9f1278c5-d657-4036-9f48-8f48a73df54d)
 
+![Screenshot_20230730_154057](https://github.com/L4ki/Flight-Plasma-Themes/assets/45247573/62f4e1ac-b4f4-4eb9-98d7-a258a2132f39)
+
+![2](https://github.com/L4ki/Flight-Plasma-Themes/assets/45247573/9c995976-8aa5-47bc-93d0-5be1c56ac22f)
+
+![Screenshot_20230802_120034](https://github.com/L4ki/Flight-Plasma-Themes/assets/45247573/1247ec39-a5c4-4843-877a-b641f7f5f183)
 
