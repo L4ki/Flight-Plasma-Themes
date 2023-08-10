@@ -43,3 +43,20 @@ Screenshots "Flight-Dark-Plasma":
 
 ![Screenshot_20230802_120034](https://github.com/L4ki/Flight-Plasma-Themes/assets/45247573/1247ec39-a5c4-4843-877a-b641f7f5f183)
 
+Changelog: 10.08.2023.
+----------------------
+
+Icons
+-----
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Update widget: tabbar.svg
+
+GTK Theme
+---------
+
+Update: gtk-2.0
+
