@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    sodipodi:docname="tabbar.svg"
    id="svg112"
    version="1.1"
@@ -34,9 +34,9 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="55.617016"
-     inkscape:cx="78.717205"
-     inkscape:zoom="3.3982406"
+     inkscape:cy="63.868144"
+     inkscape:cx="56.311621"
+     inkscape:zoom="4.8302641"
      inkscape:guide-bbox="true"
      showguides="true"
      showgrid="true"
@@ -59,7 +59,11 @@
        type="xygrid"
        id="grid2892"
        originx="0"
-       originy="0" />
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="true" />
   </sodipodi:namedview>
   <defs
      id="defs3">
@@ -77,18 +81,7 @@
     </linearGradient>
     <style
        type="text/css"
-       id="current-color-scheme">.ColorScheme-Highlight { color:#008080; }
-.ColorScheme-Text { color:#31363b; }
-.ColorScheme-Background {  }
-.ColorScheme-ViewText { color:#31363b; }
-.ColorScheme-ViewBackground { color:#fcfcfc; }
-.ColorScheme-ViewHover { color:#3daee9; }
-.ColorScheme-ViewFocus { color:#3daee9; }
-.ColorScheme-ButtonText { color:#31363b; }
-.ColorScheme-ButtonBackground { color:#eff0f1; }
-.ColorScheme-ButtonHover { color:#3daee9; }
-.ColorScheme-ButtonFocus { color:#3daee9; }
-</style>
+       id="current-color-scheme">.ColorScheme-Highlight { color:#008080; }&#10;.ColorScheme-Text { color:#31363b; }&#10;.ColorScheme-Background {  }&#10;.ColorScheme-ViewText { color:#31363b; }&#10;.ColorScheme-ViewBackground { color:#fcfcfc; }&#10;.ColorScheme-ViewHover { color:#3daee9; }&#10;.ColorScheme-ViewFocus { color:#3daee9; }&#10;.ColorScheme-ButtonText { color:#31363b; }&#10;.ColorScheme-ButtonBackground { color:#eff0f1; }&#10;.ColorScheme-ButtonHover { color:#3daee9; }&#10;.ColorScheme-ButtonFocus { color:#3daee9; }&#10;</style>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient1675"
@@ -445,7 +438,7 @@
      id="west-active-tab-center"
      transform="translate(-86,-41)">
     <rect
-       style="opacity:1;fill:#5c89ba;fill-opacity:0.101961"
+       style="opacity:1;fill:#274268;fill-opacity:0.34901962"
        id="normalBase-2-8"
        width="6"
        height="6"
@@ -470,7 +463,7 @@
        height="6"
        width="5"
        id="rect1102-7-9"
-       style="opacity:1;fill:#5c89ba;fill-opacity:0.101961;stroke-width:0.912871"
+       style="opacity:1;fill:#274268;fill-opacity:0.34901962;stroke-width:0.912871"
        transform="rotate(90)" />
   </g>
   <g
@@ -487,7 +480,7 @@
     <path
        sodipodi:nodetypes="sscs"
        d="m 177,93 c 0,-2.77 -2.23,-5 -5,-5 v 5 z"
-       style="opacity:1;fill:#5c89ba;fill-opacity:0.101961"
+       style="opacity:1;fill:#274268;fill-opacity:0.34901962"
        id="path1095-30-0" />
     <path
        id="path1095-3-0-7-8"
@@ -508,7 +501,7 @@
     <path
        sodipodi:nodetypes="sscs"
        d="m 172,106 c 2.77,0 5,-2.23 5,-5 h -5 z"
-       style="opacity:1;fill:#5c89ba;fill-opacity:0.101961"
+       style="opacity:1;fill:#274268;fill-opacity:0.34901962"
        id="path1095-7-8-0" />
     <path
        id="path1095-3-06-8-9"
@@ -529,7 +522,7 @@
     <path
        sodipodi:nodetypes="sscs"
        d="m 164,106 c -2.77,0 -5,-2.23 -5,-5 h 5 z"
-       style="opacity:1;fill:#5c89ba;fill-opacity:0.101961"
+       style="opacity:1;fill:#274268;fill-opacity:0.34901962"
        id="path8155-9-6" />
   </g>
   <g
@@ -545,7 +538,7 @@
     <path
        sodipodi:nodetypes="sscs"
        d="m 164,88 c -2.77,0 -5,2.23 -5,5 h 5 z"
-       style="opacity:1;fill:#5c89ba;fill-opacity:0.101961"
+       style="opacity:1;fill:#274268;fill-opacity:0.34901962"
        id="path6959-6-5" />
   </g>
   <g
@@ -565,7 +558,7 @@
        height="6"
        width="5"
        id="rect1102-2-26-4"
-       style="opacity:1;fill:#5c89ba;fill-opacity:0.101961;stroke-width:0.912871"
+       style="opacity:1;fill:#274268;fill-opacity:0.34901962;stroke-width:0.912871"
        transform="rotate(-90)" />
   </g>
   <g
@@ -585,7 +578,7 @@
        height="6"
        width="5"
        id="rect1102-2-2-5-0"
-       style="opacity:1;fill:#5c89ba;fill-opacity:0.101961;stroke-width:0.912871"
+       style="opacity:1;fill:#274268;fill-opacity:0.34901962;stroke-width:0.912871"
        transform="scale(-1)" />
     <rect
        style="opacity:0.1;fill:#cdcdcd;fill-opacity:0.992157;stroke-linejoin:round"
@@ -612,7 +605,7 @@
        height="6"
        width="5"
        id="rect1102-2-2-3-7-4"
-       style="opacity:1;fill:#5c89ba;fill-opacity:0.101961;stroke-width:0.912871" />
+       style="opacity:1;fill:#274268;fill-opacity:0.34901962;stroke-width:0.912871" />
   </g>
   <g
      id="north-active-tab-center"
@@ -796,7 +789,7 @@
      id="east-active-tab-center"
      transform="translate(-124,-37)">
     <rect
-       style="opacity:1;fill:#5c89ba;fill-opacity:0.101961"
+       style="opacity:1;fill:#274268;fill-opacity:0.34901962"
        id="normalBase-2-3"
        width="6"
        height="6"
@@ -821,7 +814,7 @@
        height="6"
        width="5"
        id="rect1102-7-5"
-       style="opacity:1;fill:#5c89ba;fill-opacity:0.101961;stroke-width:0.912871"
+       style="opacity:1;fill:#274268;fill-opacity:0.34901962;stroke-width:0.912871"
        transform="rotate(-90)" />
   </g>
   <g
@@ -838,7 +831,7 @@
     <path
        sodipodi:nodetypes="sscs"
        d="m 206,101 c 0,2.77 2.23,5 5,5 v -5 z"
-       style="opacity:1;fill:#5c89ba;fill-opacity:0.101961"
+       style="opacity:1;fill:#274268;fill-opacity:0.34901962"
        id="path1095-30-2" />
     <path
        id="path1095-3-0-7-1"
@@ -858,7 +851,7 @@
     <path
        sodipodi:nodetypes="sscs"
        d="m 211,88 c -2.77,0 -5,2.23 -5,5 h 5 z"
-       style="opacity:1;fill:#5c89ba;fill-opacity:0.101961"
+       style="opacity:1;fill:#274268;fill-opacity:0.34901962"
        id="path1095-7-8-5" />
     <path
        id="path1095-3-06-8-7"
@@ -879,7 +872,7 @@
     <path
        sodipodi:nodetypes="sscs"
        d="m 219,88 c 2.77,0 5,2.23 5,5 h -5 z"
-       style="opacity:1;fill:#5c89ba;fill-opacity:0.101961"
+       style="opacity:1;fill:#274268;fill-opacity:0.34901962"
        id="path8155-9-7" />
   </g>
   <g
@@ -896,7 +889,7 @@
     <path
        sodipodi:nodetypes="sscs"
        d="m 219,106 c 2.77,0 5,-2.23 5,-5 h -5 z"
-       style="opacity:1;fill:#5c89ba;fill-opacity:0.101961"
+       style="opacity:1;fill:#274268;fill-opacity:0.34901962"
        id="path6959-6-8" />
   </g>
   <g
@@ -916,7 +909,7 @@
        height="6"
        width="5"
        id="rect1102-2-26-1"
-       style="opacity:1;fill:#5c89ba;fill-opacity:0.101961;stroke-width:0.912871"
+       style="opacity:1;fill:#274268;fill-opacity:0.34901962;stroke-width:0.912871"
        transform="rotate(90)" />
   </g>
   <g
@@ -935,7 +928,7 @@
        height="6"
        width="5"
        id="rect1102-2-2-5-6"
-       style="opacity:1;fill:#5c89ba;fill-opacity:0.101961;stroke-width:0.912871" />
+       style="opacity:1;fill:#274268;fill-opacity:0.34901962;stroke-width:0.912871" />
     <rect
        style="opacity:0.1;fill:#cdcdcd;fill-opacity:0.992157;stroke-linejoin:round"
        id="rect1111-9-8-0-4"
@@ -962,7 +955,7 @@
        height="6"
        width="5"
        id="rect1102-2-2-3-7-3"
-       style="opacity:1;fill:#5c89ba;fill-opacity:0.101961;stroke-width:0.912871"
+       style="opacity:1;fill:#274268;fill-opacity:0.34901962;stroke-width:0.912871"
        transform="scale(-1)" />
   </g>
   <g
