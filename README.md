@@ -60,3 +60,20 @@ GTK Theme
 
 Update: gtk-2.0
 
+Changelogs: 17.08.2023.
+----------------------
+
+Icons
+-----
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Update widget: viewitem.svg
+
+GTK Theme
+---------
+
+Update:  hacks-dark.rc
+
