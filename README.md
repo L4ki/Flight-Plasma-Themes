@@ -93,3 +93,20 @@ GTK Theme
 ---------
 
 Update: gtkrc
+
+Changelogs: 31.08.2023.
+----------------------
+
+Icons
+-----
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added icon: fcitx.svg
+
+GTK Theme
+---------
+
+Update: border.png
