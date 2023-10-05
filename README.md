@@ -179,3 +179,21 @@ GTK Theme
 
 Update: frame-inline.png
 
+
+Changelogs: 05.10.2023.
+----------------------
+
+Icons
+-----
+Update folder icons: folder-encrypted.svg, folder-magenta.svg
+
+Plasma Theme
+------------
+
+Added icon: transform.svg
+
+GTK Theme
+---------
+
+Update: focus.png
+
