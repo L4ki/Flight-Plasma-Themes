@@ -3,7 +3,7 @@
 
 <svg
    sodipodi:docname="tasks.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    version="1.1"
    id="svg3557"
    height="460"
@@ -18,29 +18,24 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <style
      id="current-color-scheme"
-     type="text/css">
-.ColorScheme-Highlight { 
-    color:#00aa7f;
-}
-.ColorScheme-Text { stop-color:#ffffff;    color:#ffffff; }
-</style>
+     type="text/css">&#10;.ColorScheme-Highlight { &#10;    color:#00aa7f;&#10;}&#10;.ColorScheme-Text { stop-color:#ffffff;    color:#ffffff; }&#10;</style>
   <sodipodi:namedview
      id="base"
-     pagecolor="#282d38"
-     bordercolor="#6995c5"
+     pagecolor="#292d37"
+     bordercolor="#267cd9"
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0000001"
-     inkscape:cx="388.49996"
-     inkscape:cy="291.99997"
+     inkscape:cx="472.99995"
+     inkscape:cy="292.49997"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="944"
+     inkscape:window-height="996"
      inkscape:window-x="0"
-     inkscape:window-y="50"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:snap-text-baseline="true"
@@ -49,14 +44,18 @@
      inkscape:lockguides="false"
      showguides="true"
      inkscape:showpageshadow="false"
-     inkscape:deskcolor="#282d38">
+     inkscape:deskcolor="#292d37">
     <inkscape:grid
        type="xygrid"
        id="grid9577"
        originx="0"
        originy="0"
        color="#0099e5"
-       opacity="0.30196078" />
+       opacity="0.301961"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="true" />
   </sodipodi:namedview>
   <defs
      id="defs3559">
