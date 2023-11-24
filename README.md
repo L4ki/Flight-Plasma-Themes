@@ -309,3 +309,21 @@ GTK Theme
 
 Update: progressbar-vert-trough.png
 
+Changelogs: 24.11.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Update widget: button.svg
+
+GTK Theme
+---------
+
+Update: progressbar-horz-trough.png
+
