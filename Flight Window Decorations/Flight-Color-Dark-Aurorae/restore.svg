@@ -4,7 +4,7 @@
    height="22"
    id="svg4428"
    version="1.1"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    sodipodi:docname="restore.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -20,8 +20,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="4.0703124"
-     inkscape:cx="-81.689062"
-     inkscape:cy="24.81382"
+     inkscape:cx="-81.811902"
+     inkscape:cy="24.936661"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -34,7 +34,7 @@
      showborder="true"
      inkscape:showpageshadow="true"
      inkscape:pagecheckerboard="true"
-     inkscape:deskcolor="#434343">
+     inkscape:deskcolor="#333333">
     <inkscape:grid
        type="xygrid"
        id="grid4436"
@@ -45,7 +45,8 @@
        originx="-141"
        originy="-0.99959359"
        spacingx="1"
-       spacingy="1" />
+       spacingy="1"
+       units="px" />
   </sodipodi:namedview>
   <defs
      id="defs3">
