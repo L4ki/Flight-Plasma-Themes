@@ -363,4 +363,22 @@ GTK Theme
 
 Update: gtkrc
 
+Changelogs: 15.12.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Update widget: arrows.svg
+
+Aurorae Themes
+--------------
+
+Update: restore.svg
+
 
