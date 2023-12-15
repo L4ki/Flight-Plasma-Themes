@@ -381,4 +381,9 @@ Aurorae Themes
 
 Update: restore.svg
 
+GTK Theme
+---------
+
+Update: checkbox-checked-hover.png
+
 
