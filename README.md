@@ -386,4 +386,27 @@ GTK Theme
 
 Update: checkbox-checked-hover.png
 
+Changelogs: 22.12.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Update widget: containment-controls.svg
+
+Aurorae Themes
+--------------
+
+Update: shade.svg
+
+GTK Theme
+---------
+
+Update: checkbox-checked.png
+
 
