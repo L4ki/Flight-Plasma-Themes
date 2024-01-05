@@ -432,4 +432,22 @@ GTK Theme
 
 Update: gtk-4.0
 
+Changelogs: 05.01.2024.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 48
+
+Plasma Theme
+------------
+
+Update widget: radiobutton.svg
+
+GTK Theme
+---------
+
+Update: gtk-3.0
+
 
