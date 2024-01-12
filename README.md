@@ -450,4 +450,27 @@ GTK Theme
 
 Update: gtk-3.0
 
+Changelogs: 12.01.2024.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 48
+
+Plasma Theme
+------------
+
+Added icon: solaar.svg
+
+Aurorae Themes
+--------------
+
+Update: minimize.svg
+
+GTK Theme
+---------
+
+Update: gtkrc
+
 
