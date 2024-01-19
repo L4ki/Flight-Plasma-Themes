@@ -473,4 +473,27 @@ GTK Theme
 
 Update: gtkrc
 
+Changelogs: 19.01.2024.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 48
+
+Plasma Theme
+------------
+
+Update widgets: bar_meter_horizontal.svg, bar_meter_vertical.svg
+
+Aurorae Themes
+--------------
+
+Update: decoration.svg
+
+GTK Theme
+---------
+
+Update: checkbox-unchecked-insensitive.png
+
 
