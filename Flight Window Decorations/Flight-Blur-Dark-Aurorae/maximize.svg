@@ -4,7 +4,7 @@
    height="22"
    id="svg4428"
    version="1.1"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    sodipodi:docname="maximize.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -33,13 +33,13 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#404040"
+     pagecolor="#333333"
      bordercolor="#000000"
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.2729184"
-     inkscape:cx="-128.78415"
+     inkscape:cx="-84.328409"
      inkscape:cy="54.385713"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -53,12 +53,16 @@
      showborder="true"
      inkscape:showpageshadow="true"
      inkscape:pagecheckerboard="true"
-     inkscape:deskcolor="#404040">
+     inkscape:deskcolor="#333333">
     <inkscape:grid
        type="xygrid"
        id="grid1495"
        originx="-180"
-       originy="0.00037343751" />
+       originy="0.00037343751"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="true" />
   </sodipodi:namedview>
   <g
      inkscape:label="Layer 1"
