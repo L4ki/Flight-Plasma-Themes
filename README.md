@@ -68,4 +68,12 @@ GTK Theme
 
 Update: apps.rc
 
+Changelogs: 17.02.2024.
+----------------------
+
+GTK Theme
+---------
+
+Update: hacks-dark.rc
+
 
