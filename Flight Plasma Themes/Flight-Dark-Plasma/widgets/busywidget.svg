@@ -7,7 +7,7 @@
    viewBox="0 0 35.983333 35.983334"
    id="svg2"
    version="1.1"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    sodipodi:docname="busywidget.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -59,14 +59,14 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#282d38"
+     pagecolor="#20242d"
      bordercolor="#4663cc"
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.9315454"
-     inkscape:cx="67.044761"
-     inkscape:cy="113.38072"
+     inkscape:cx="43.488494"
+     inkscape:cy="148.32683"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -83,7 +83,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:pagecheckerboard="true"
-     inkscape:deskcolor="#282d38"
+     inkscape:deskcolor="#20242d"
      showguides="false">
     <inkscape:grid
        type="xygrid"
@@ -95,7 +95,8 @@
        enabled="true"
        snapvisiblegridlinesonly="true"
        spacingx="3.7795275"
-       spacingy="3.7795275" />
+       spacingy="3.7795275"
+       units="px" />
     <sodipodi:guide
        position="-5.8455811e-08,35.983344"
        orientation="136.00001,0"
