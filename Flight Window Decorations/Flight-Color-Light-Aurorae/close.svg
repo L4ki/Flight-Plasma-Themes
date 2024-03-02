@@ -4,7 +4,7 @@
    height="22"
    id="svg4428"
    version="1.1"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    sodipodi:docname="close.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -34,13 +34,13 @@
   <sodipodi:namedview
      id="base"
      pagecolor="#333333"
-     bordercolor="#000000"
+     bordercolor="#030303"
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="3.0598356"
-     inkscape:cx="-239.06513"
-     inkscape:cy="54.904911"
+     inkscape:cx="-88.56685"
+     inkscape:cy="70.42862"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -57,7 +57,7 @@
      inkscape:snap-bbox-edge-midpoints="false"
      inkscape:snap-global="true"
      inkscape:pagecheckerboard="true"
-     inkscape:deskcolor="#404040">
+     inkscape:deskcolor="#333333">
     <inkscape:grid
        type="xygrid"
        id="grid4436"
@@ -68,7 +68,8 @@
        originx="-152.08064"
        originy="-0.99948817"
        spacingx="1"
-       spacingy="1" />
+       spacingy="1"
+       units="px" />
   </sodipodi:namedview>
   <g
      inkscape:label="Layer 1"
@@ -93,13 +94,13 @@
          x="-35"
          y="1099.5197"
          id="rect4310-6-6"
-         style="fill:#bbbfc3;fill-opacity:1;stroke-width:0.55"
+         style="fill:#4c5880;fill-opacity:0.85000002;stroke-width:0.55"
          rx="6" />
       <path
          d="m -24,1109.3028 4.282462,-4.2831 1.217593,1.231 -4.268605,4.2689 4.268605,4.2831 -1.217593,1.217 -4.282462,-4.2689 -4.268617,4.2689 -1.231328,-1.217 4.282465,-4.2831 -4.282465,-4.2689 1.231328,-1.231 z"
          fill-rule="evenodd"
          id="path2252-36"
-         style="fill:#171b27;fill-opacity:1;stroke-width:0.020694" />
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.020694" />
     </g>
     <g
        id="hover-center">
@@ -144,13 +145,13 @@
          x="82"
          y="1099.5197"
          id="rect4310-6-6-35"
-         style="fill:#bbbfc3;fill-opacity:0.75;stroke-width:0.55"
+         style="fill:#4c5880;fill-opacity:0.55000001;stroke-width:0.55"
          rx="6" />
       <path
          d="m 92.999979,1109.303 4.28246,-4.2831 1.21759,1.231 -4.2686,4.2689 4.2686,4.2831 -1.21759,1.217 -4.28246,-4.2689 -4.26862,4.2689 -1.23132,-1.217 4.28246,-4.2831 -4.28246,-4.2689 1.23132,-1.231 z"
          fill-rule="evenodd"
          id="path2252-36-62"
-         style="fill:#ffffff;fill-opacity:1;stroke-width:0.020694" />
+         style="fill:#bfbfbf;fill-opacity:1;stroke-width:0.020694" />
     </g>
     <g
        id="hover-inactive-center">
