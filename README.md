@@ -56,7 +56,7 @@ Added new icons: apps 48
 Plasma Theme
 ------------
 
-Update widget: clockbackground.svg (dialogs)
+Update widget: background.svg (dialogs)
 
 Aurorae Themes
 --------------
