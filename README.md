@@ -45,7 +45,7 @@ Screenshots "Flight-Dark-Plasma":
 
 ______________________
 
-Changelogs: 16.03.2024.
+Changelogs: 23.03.2024.
 ----------------------
 
 Icons
@@ -61,13 +61,12 @@ Update widget: tasks.svg
 Aurorae Themes
 --------------
 
-Update: metadata.desktop
+Update: rc file
 
 GTK Theme
 ---------
 
-Update: checkbox-checked-active.png
-
+Update: gtk-4.0
 
 
 
