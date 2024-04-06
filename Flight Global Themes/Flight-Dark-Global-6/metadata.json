@@ -20,17 +20,17 @@
         "Website": "https://github.com/L4ki/Flight-Plasma-Themes"
     },
     "X-KPackage-Dependencies": [
-        "kns://window-decorations.knsrc/api.kde-look.org/2143597",
-        "kns://window-decorations.knsrc/api.kde-look.org/2143596",
-        "kns://window-decorations.knsrc/api.kde-look.org/2143596",
+        "kns://window-decorations.knsrc/api.kde-look.org/2144614",
+        "kns://window-decorations.knsrc/api.kde-look.org/2144613",
+        "kns://window-decorations.knsrc/api.kde-look.org/2144612",
         "kns://colorschemes.knsrc/api.kde-look.org/2068646",
         "kns://colorschemes.knsrc/api.kde-look.org/2068644",
         "kns://icons.knsrc/api.kde-look.org/2068653",
         "kns://icons.knsrc/api.kde-look.org/2137690",
         "kns://icons.knsrc/api.kde-look.org/1982098",
         "kns://plasma-themes.knsrc/api.kde-look.org/2068659",
-        "kns://sddmtheme.knsrc/api.kde-look.org/2143595",
-        "kns://wallpaper.knsrc/api.kde-look.org/1982061",
-        "kns://wallpaper.knsrc/api.kde-look.org/1982059"
+        "kns://sddmtheme.knsrc/api.kde-look.org/2144610",
+        "kns://wallpaper.knsrc/api.kde-look.org/2144605",
+        "kns://wallpaper.knsrc/api.kde-look.org/2144603"
     ]
 }
