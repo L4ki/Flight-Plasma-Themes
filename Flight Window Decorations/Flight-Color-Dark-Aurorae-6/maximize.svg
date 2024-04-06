@@ -38,9 +38,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.266542"
-     inkscape:cx="-87.860496"
-     inkscape:cy="42.552644"
+     inkscape:zoom="3.2729184"
+     inkscape:cx="-84.328409"
+     inkscape:cy="54.385713"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -138,11 +138,11 @@
          x="75"
          y="1099.5197"
          id="rect4310-6-6-6"
-         style="fill:#4c5880;fill-opacity:0.54901963;stroke-width:0.55"
+         style="fill:#4c5880;fill-opacity:0.54902;stroke-width:0.55"
          rx="6" />
       <path
          d="m 83.000044,1104.5195 c -1.662,0 -3,1.339 -3,3 v 6 c 0,1.661 1.33801,3 3,3 h 6 c 1.662,0 3,-1.339 3,-3 v -6 c 0,-1.661 -1.33801,-3 -3,-3 z m 0,1.5 h 6 c 0.831,0 1.5,0.6697 1.5,1.5 v 6 c 0,0.8304 -0.66902,1.5 -1.5,1.5 h -6 c -0.83096,0 -1.49999,-0.6696 -1.49999,-1.5 v -6 c 0,-0.8303 0.66903,-1.5 1.49999,-1.5 z"
-         style="fill:#ffffff;fill-opacity:1;stroke-width:1.5;paint-order:stroke fill markers"
+         style="fill:#b2b2b2;fill-opacity:1;stroke-width:1.5;paint-order:stroke fill markers"
          id="path1596-7-2" />
       <rect
          height="4"
@@ -151,7 +151,7 @@
          x="84"
          y="1108.5189"
          id="rect4310-6-6-3-5-9"
-         style="fill:#ffffff;fill-opacity:1;stroke-width:0.1"
+         style="fill:#b2b2b2;fill-opacity:1;stroke-width:0.1"
          rx="0.90000027" />
     </g>
     <g
