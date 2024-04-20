@@ -65,5 +65,10 @@ GTK Theme
 
 Update: main.rc
 
+Aurorae Themes
+--------------
+
+Update: metadata.desktop
+
 
 
