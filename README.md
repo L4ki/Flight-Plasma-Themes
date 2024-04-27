@@ -45,30 +45,28 @@ Screenshots "Flight-Dark-Plasma":
 
 ______________________
 
-Changelogs: 20.04.2024.
+Changelogs: 27.04.2024.
 ----------------------
 
 Icons
 -----
 
-Update icons: places
+Update icons: places 64
 
 Plasma Theme
 ------------
 
-Update widget: scrollbar.svg
-
-Update: metadata.desktop
+Update widget: button.svg
 
 GTK Theme
 ---------
 
-Update: main.rc
+Update: hacks.rc
 
 Aurorae Themes
 --------------
 
-Update: metadata.desktop
+Update: decoration.svg
 
 
 
