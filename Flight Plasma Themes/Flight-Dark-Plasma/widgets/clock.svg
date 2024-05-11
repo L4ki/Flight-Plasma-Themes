@@ -25,7 +25,7 @@
 .ColorScheme-Highlight { color:#7580bc; }
 </style>
   <sodipodi:namedview
-     inkscape:window-height="994"
+     inkscape:window-height="996"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -33,12 +33,12 @@
      gridtolerance="4"
      objecttolerance="6"
      borderopacity="1"
-     bordercolor="#537bac"
-     pagecolor="#20242d"
+     bordercolor="#42628a"
+     pagecolor="#21242c"
      id="base"
      inkscape:zoom="1.4214014"
      inkscape:cx="104.12259"
-     inkscape:cy="183.97336"
+     inkscape:cy="183.6216"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:current-layer="svg2"
@@ -50,7 +50,7 @@
      inkscape:lockguides="false"
      inkscape:pagecheckerboard="true"
      inkscape:showpageshadow="false"
-     inkscape:deskcolor="#21242c">
+     inkscape:deskcolor="#23252a">
     <sodipodi:guide
        id="guide4454"
        position="1516.8644,-775.48024"
