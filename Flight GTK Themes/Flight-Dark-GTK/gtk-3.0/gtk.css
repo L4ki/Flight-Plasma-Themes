@@ -4450,6 +4450,7 @@ window.background.chromium {
     label:backdrop .maximized .titlebar selection.maximize {
       background-image: -gtk-scaled(url("../assets/titlebutton-maximize-maximized-backdrop.png"), url("../assets/titlebutton-maximize-maximized-backdrop@2.png")); }
 
+
 #MozillaGtkWidget scrollbar {
   padding: 0px; }
   #MozillaGtkWidget scrollbar slider {
