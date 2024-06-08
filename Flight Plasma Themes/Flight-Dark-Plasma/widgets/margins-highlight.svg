@@ -4,7 +4,7 @@
    height="10.01252"
    id="svg7080"
    sodipodi:version="0.32"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    version="1.0"
    sodipodi:docname="margins-highlight.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
@@ -26,18 +26,18 @@
   <sodipodi:namedview
      id="base"
      pagecolor="#282d38"
-     bordercolor="#4e9acc"
+     bordercolor="#3b7499"
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="28.963094"
-     inkscape:cx="7.3369233"
-     inkscape:cy="7.9066138"
+     inkscape:zoom="40.96"
+     inkscape:cx="7.0312499"
+     inkscape:cy="5.1879882"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="994"
+     inkscape:window-height="996"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:snap-global="true"
@@ -61,7 +61,13 @@
      inkscape:deskcolor="#282d38">
     <inkscape:grid
        type="xygrid"
-       id="grid768" />
+       id="grid768"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="true" />
   </sodipodi:namedview>
   <defs
      id="defs7082">
