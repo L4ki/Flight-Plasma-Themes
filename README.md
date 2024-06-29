@@ -45,7 +45,7 @@ Screenshots "Flight-Dark-Plasma":
 
 ______________________
 
-Changelogs: 22.06.2024.
+Changelogs: 29.06.2024.
 ----------------------
 
 Icons
@@ -56,15 +56,20 @@ Added new icons: apps 48
 Plasma Theme
 ------------
 
-Update widget: arrows.svg
+Update widget: bar_meter_horizontal.svg
 
 GTK Theme
 ---------
 
-Update: hacks-dark.rc
+Update: apps.rc
 
 Aurorae Themes
 --------------
+
+Update: metadata.desktop
+
+SDDM Theme "Flight-SDDM"
+------------------------
 
 Update: metadata.desktop
 
