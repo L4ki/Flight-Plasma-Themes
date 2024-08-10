@@ -27,18 +27,18 @@
   <sodipodi:namedview
      id="base"
      pagecolor="#292d37"
-     bordercolor="#267cd9"
+     bordercolor="#2270c3"
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710685"
-     inkscape:cx="483.66099"
-     inkscape:cy="225.56704"
+     inkscape:cx="565.68537"
+     inkscape:cy="323.14777"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="948"
+     inkscape:window-height="996"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -22811,15 +22811,15 @@
     </g>
     <g
        id="east-normal-hint-bottom-margin"
-       transform="matrix(1,0,0,3,145.17746,-1442.9102)"
-       style="stroke-width:0.57735">
+       transform="matrix(1,0,0,2,145.17746,-720.54812)"
+       style="stroke-width:0.707106">
       <rect
          y="730"
          x="-723.36218"
          height="4"
          width="1"
          id="focus-hint-left-margin-4-6"
-         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.258199"
+         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.316227"
          transform="rotate(-90)" />
     </g>
     <g
@@ -22829,9 +22829,9 @@
       <rect
          style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5164"
          id="focus-hint-right-margin-3-5"
-         width="4"
+         width="2.6666667"
          height="4"
-         x="-689.3623"
+         x="-688.02875"
          y="729.99994"
          transform="rotate(-90)" />
     </g>
