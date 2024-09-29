@@ -45,23 +45,23 @@ Screenshots "Flight-Dark-Plasma":
 
 ______________________
 
-Changelogs: 22.09.2024.
+Changelogs: 29.09.2024.
 ----------------------
 
 Icons
 -----
 
-Added new icons: apps 48
+Added new icons: actions
 
 Plasma Theme
 ------------
 
-Update widget: radiobutton.svg
+Update widget: switch.svg
 
 GTK Theme
 ---------
 
-Update: gtkrc
+Update: main.rc
 
 Aurorae Themes
 --------------
