@@ -4,7 +4,7 @@
    height="64"
    width="64"
    sodipodi:version="0.32"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    sodipodi:docname="lineedit.svg"
    inkscape:output_extension="org.inkscape.output.svgz.inkscape"
    inkscape:export-filename="/home/pinheiro/Documents/pics/estilo/plasma/wether.png"
@@ -41,6 +41,7 @@
      offset="1"
      id="stop1194" />
 </linearGradient>
+
 
 
 hover-hint-top-margin&quot;
@@ -191,7 +192,7 @@ hover-hint-top-margin&quot;
   <sodipodi:namedview
      id="namedview85"
      pagecolor="#282d38"
-     bordercolor="#5e81ac"
+     bordercolor="#577ba8"
      borderopacity="1"
      objecttolerance="10.0"
      gridtolerance="10.0"
@@ -206,7 +207,7 @@ hover-hint-top-margin&quot;
      inkscape:deskcolor="#282d38"
      inkscape:zoom="2.8284271"
      inkscape:cx="25.632621"
-     inkscape:cy="79.903066"
+     inkscape:cy="79.903067"
      inkscape:window-width="1920"
      inkscape:window-height="994"
      inkscape:window-x="0"
@@ -215,7 +216,12 @@ hover-hint-top-margin&quot;
      showguides="false">
     <inkscape:grid
        type="xygrid"
-       id="grid4747" />
+       id="grid4747"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <style
      id="current-color-scheme"
