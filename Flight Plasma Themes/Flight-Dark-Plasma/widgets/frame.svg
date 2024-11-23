@@ -5,7 +5,7 @@
    viewBox="0 0 50.625001 50.625001"
    version="1.1"
    id="svg8"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    sodipodi:docname="frame.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -21,13 +21,13 @@
   <sodipodi:namedview
      id="base"
      pagecolor="#20242d"
-     bordercolor="#1f2a5f"
+     bordercolor="#5367c7"
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="8"
-     inkscape:cx="34.8125"
-     inkscape:cy="39"
+     inkscape:zoom="5.6568543"
+     inkscape:cx="34.736621"
+     inkscape:cy="41.365747"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -50,7 +50,12 @@
      inkscape:deskcolor="#282d38">
     <inkscape:grid
        type="xygrid"
-       id="grid934" />
+       id="grid934"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <defs
      id="defs2">
