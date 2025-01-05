@@ -45,7 +45,7 @@ Screenshots "Flight-Dark-Plasma":
 
 ______________________
 
-Changelogs: 29.12.2024.
+Changelogs: 05.01.2025.
 ----------------------
 
 Icons
@@ -61,7 +61,7 @@ Update widget: picker.svg
 GTK Theme
 ---------
 
-Update: gtk-4.0
+Update: gtk-3.0
 
 Aurorae Themes
 --------------
