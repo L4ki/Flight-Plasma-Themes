@@ -5,7 +5,7 @@
    version="1.1"
    id="svg57"
    sodipodi:docname="muondiscover.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -20,10 +20,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     showgrid="true"
+     showgrid="false"
      inkscape:zoom="8.0667981"
-     inkscape:cx="30.309424"
-     inkscape:cy="28.821844"
+     inkscape:cx="30.371406"
+     inkscape:cy="48.59425"
      inkscape:window-width="1920"
      inkscape:window-height="994"
      inkscape:window-x="0"
@@ -34,7 +34,11 @@
        type="xygrid"
        id="grid788"
        originx="0"
-       originy="0" />
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="false" />
   </sodipodi:namedview>
   <defs
      id="defs31">
@@ -224,22 +228,25 @@
      stroke-dashoffset="0.42096"
      stroke="#ffffff"
      fill="none"
-     d="m 18.996393,23.488672 a 12.539468,12.539468 0 0 1 -0.01,-0.501549 12.539468,12.539468 0 0 1 12.539464,-12.539463 12.539468,12.539468 0 0 1 12.539465,12.539463 12.539468,12.539468 0 0 1 -0.0097,0.502269" />
+     d="m 18.996393,23.488672 a 12.539468,12.539468 0 0 1 -0.01,-0.501549 12.539468,12.539468 0 0 1 12.539464,-12.539463 12.539468,12.539468 0 0 1 12.539465,12.539463 12.539468,12.539468 0 0 1 -0.0097,0.502269"
+     style="stroke:#0e0e0e;stroke-opacity:1" />
   <text
      id="text24"
      xml:space="preserve"
-     style="line-height:1.25"
+     style="line-height:1.25;fill:#0e0e0e;fill-opacity:1"
      word-spacing="0px"
-     stroke-width="0.352339"
+     stroke-width="0.352338"
      letter-spacing="0px"
-     font-size="14.0933px"
+     font-size="19.1915px"
      font-family="sans-serif"
      fill="#ffffff"
-     y="45.195988"
-     x="13.357876"><tspan
+     y="49.413647"
+     x="6.7309141"
+     transform="scale(1.001338,0.99866379)"><tspan
        id="tspan22"
-       stroke-width="0.352339"
+       stroke-width="0.352338"
        fill="#ffffff"
-       y="45.195988"
-       x="13.357876">SHOP</tspan></text>
+       y="49.413647"
+       x="6.7309141"
+       style="fill:#0e0e0e;fill-opacity:1">SHOP</tspan></text>
 </svg>
