@@ -165,7 +165,7 @@ interior.element=checkbox
 
 [TreeExpander]
 indicator.element=tree
-indicator.size=4
+indicator.size=8
 
 [ToolTip]
 inherits=GenericFrame
