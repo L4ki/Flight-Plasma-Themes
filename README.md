@@ -45,7 +45,7 @@ Screenshots "Flight-Dark-Plasma":
 
 ______________________
 
-Changelogs: 15.06.2025.
+Changelogs: 22.06.2025.
 ----------------------
 
 Icons
@@ -61,7 +61,7 @@ Update:metadata.desktop
 GTK Theme
 ---------
 
-Update: gtk-4.0
+Update: gtk-3.0
 
 
 
