@@ -190,11 +190,11 @@ text.press.color=white
 text.toggle.color=#ffffff
 frame=true
 frame.element=button
-frame.top=3
-frame.bottom=4
-frame.left=4
-frame.right=4
-indicator.size=8
+frame.top=6
+frame.bottom=6
+frame.left=6
+frame.right=6
+indicator.size=6
 frame.expansion=14
 
 [PanelButtonTool]
